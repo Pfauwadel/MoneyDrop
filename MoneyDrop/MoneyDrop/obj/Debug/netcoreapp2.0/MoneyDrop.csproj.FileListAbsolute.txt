@@ -1,0 +1,11 @@
+D:\Documents\Damien\Programmation\GitRepo\MoneyDrop\MoneyDrop\MoneyDrop\bin\Debug\netcoreapp2.0\MoneyDrop.deps.json
+D:\Documents\Damien\Programmation\GitRepo\MoneyDrop\MoneyDrop\MoneyDrop\bin\Debug\netcoreapp2.0\MoneyDrop.runtimeconfig.json
+D:\Documents\Damien\Programmation\GitRepo\MoneyDrop\MoneyDrop\MoneyDrop\bin\Debug\netcoreapp2.0\MoneyDrop.runtimeconfig.dev.json
+D:\Documents\Damien\Programmation\GitRepo\MoneyDrop\MoneyDrop\MoneyDrop\bin\Debug\netcoreapp2.0\MoneyDrop.dll
+D:\Documents\Damien\Programmation\GitRepo\MoneyDrop\MoneyDrop\MoneyDrop\obj\Debug\netcoreapp2.0\MoneyDrop.csprojResolveAssemblyReference.cache
+D:\Documents\Damien\Programmation\GitRepo\MoneyDrop\MoneyDrop\MoneyDrop\obj\Debug\netcoreapp2.0\MoneyDrop.csproj.CoreCompileInputs.cache
+D:\Documents\Damien\Programmation\GitRepo\MoneyDrop\MoneyDrop\MoneyDrop\obj\Debug\netcoreapp2.0\MoneyDrop.AssemblyInfoInputs.cache
+D:\Documents\Damien\Programmation\GitRepo\MoneyDrop\MoneyDrop\MoneyDrop\obj\Debug\netcoreapp2.0\MoneyDrop.AssemblyInfo.cs
+D:\Documents\Damien\Programmation\GitRepo\MoneyDrop\MoneyDrop\MoneyDrop\bin\Debug\netcoreapp2.0\MoneyDrop.pdb
+D:\Documents\Damien\Programmation\GitRepo\MoneyDrop\MoneyDrop\MoneyDrop\obj\Debug\netcoreapp2.0\MoneyDrop.dll
+D:\Documents\Damien\Programmation\GitRepo\MoneyDrop\MoneyDrop\MoneyDrop\obj\Debug\netcoreapp2.0\MoneyDrop.pdb
